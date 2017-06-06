@@ -1,0 +1,24 @@
+{
+   "contributionName": "Template",
+   "maintainer" : "Lars Relund <junk@relund.dk>",
+   "instanceGroups": [
+      {
+         "subfolder": "AP",
+         "class": "Assignment",
+         "objectives": 2,
+         "tags": [ "ap", "assignmentProblem", "bi-AP"],
+         "format": [ "raw", "xml" ],
+         "desc": "Instances for the bi-objective assignment problem.",
+         "creator" : "Lars Relund <junk@relund.dk>"
+      },
+      {
+         "subfolder": "MMAP",
+         "class": "Assignment",
+         "objectives": 2,
+         "tags": [ "bi-MMAP", "MMAP", "multi-modal" ],
+         "format": [ "xml" ],
+         "desc": "Instances for the bi-objective multi-modal assignment problem.",
+         "creator" : "Lars Relund <junk@relund.dk>"
+      }
+   ]
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Assignment problem matrix for the bicriteria AP problem generated from the Tuyttens instances
+Christian Roed Pedersen and Lars Relund Nielsen (c)-->
+<apmat dimension="5" version="1.0" costrange="0-30" entryrange="1-1" seed="0">
+    <cell row="0" column="0" entries="1">
+        <entry c1="13" c2="1"/>
+    </cell>
+    <cell row="0" column="1" entries="1">
+        <entry c1="14" c2="13"/>
+    </cell>
+    <cell row="0" column="2" entries="1">
+        <entry c1="7" c2="15"/>
+    </cell>
+    <cell row="0" column="3" entries="1">
+        <entry c1="2" c2="18"/>
+    </cell>
+    <cell row="0" column="4" entries="1">
+        <entry c1="11" c2="3"/>
+    </cell>
+    <cell row="1" column="0" entries="1">
+        <entry c1="5" c2="0"/>
+    </cell>
+    <cell row="1" column="1" entries="1">
+        <entry c1="10" c2="3"/>
+    </cell>
+    <cell row="1" column="2" entries="1">
+        <entry c1="11" c2="17"/>
+    </cell>
+    <cell row="1" column="3" entries="1">
+        <entry c1="7" c2="8"/>
+    </cell>
+    <cell row="1" column="4" entries="1">
+        <entry c1="10" c2="6"/>
+    </cell>
+    <cell row="2" column="0" entries="1">
+        <entry c1="7" c2="9"/>
+    </cell>
+    <cell row="2" column="1" entries="1">
+        <entry c1="19" c2="5"/>
+    </cell>
+    <cell row="2" column="2" entries="1">
+        <entry c1="9" c2="8"/>
+    </cell>
+    <cell row="2" column="3" entries="1">
+        <entry c1="16" c2="0"/>
+    </cell>
+    <cell row="2" column="4" entries="1">
+        <entry c1="19" c2="4"/>
+    </cell>
+    <cell row="3" column="0" entries="1">
+        <entry c1="3" c2="18"/>
+    </cell>
+    <cell row="3" column="1" entries="1">
+        <entry c1="19" c2="19"/>
+    </cell>
+    <cell row="3" column="2" entries="1">
+        <entry c1="10" c2="3"/>
+    </cell>
+    <cell row="3" column="3" entries="1">
+        <entry c1="0" c2="19"/>
+    </cell>
+    <cell row="3" column="4" entries="1">
+        <entry c1="6" c2="7"/>
+    </cell>
+    <cell row="4" column="0" entries="1">
+        <entry c1="12" c2="2"/>
+    </cell>
+    <cell row="4" column="1" entries="1">
+        <entry c1="9" c2="3"/>
+    </cell>
+    <cell row="4" column="2" entries="1">
+        <entry c1="2" c2="19"/>
+    </cell>
+    <cell row="4" column="3" entries="1">
+        <entry c1="4" c2="12"/>
+    </cell>
+    <cell row="4" column="4" entries="1">
+        <entry c1="15" c2="15"/>
+    </cell>
+</apmat>
