@@ -1,9 +1,11 @@
 ## R script for checking the contribution
 ##
-## If you don't have the MOrepoTools package installed the run
+## You need to have R installed (and preferably also RStudio).
+##
+## If you don't have the MOrepoTools package installed the run:
 ##
 # install.packages("devtools")
-# library(devtools)   # if the package is missing see ?install.package
+# library(devtools)
 # install_github("MCDMSociety/MOrepo/misc/R/MOrepoTools")
 #
 library(MOrepoTools)
