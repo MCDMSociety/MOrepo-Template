@@ -1,5 +1,7 @@
 # Bicriterion assignment and multi modal assignment problems
 
+This is an example on how an readme file can look, see [this file](https://github.com/MCDMSociety/MOrepo/blob/master/contribute.md) for info about how to contribute.
+
 The paper consider 10 instances for the classical bi-objective linear assignment problem. 
 
 ## Test instances
