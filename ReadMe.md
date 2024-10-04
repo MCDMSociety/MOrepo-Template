@@ -4,6 +4,59 @@ This is an example on how an readme file can look, see [this file](https://githu
 
 The paper consider 10 instances for the classical bi-objective linear assignment problem. 
 
+## How to cite
+
+To cite the paper use
+
+```
+@ARTICLE{Pedersen08,
+   Author = {Pedersen, C.R. and Nielsen, L.R. and Andersen, K.A.},
+   Title = {The Bicriterion Multi Modal Assignment Problem: Introduction, Analysis, and Experimental Results},
+   Year = {2008},
+   Volume = {20},
+   Number = {3},
+   Journal = {Informs Journal on Computing},
+   Institution = {Department of Operations Research, University of Aarhus},
+   School = {Department of Operations Research, University of Aarhus},
+   Pages = {400–-411},
+   Doi = {10.1287/ijoc.1070.0253}
+}
+```
+
+To cite this repository use 
+
+```
+@Electronic{MOrepo-Pedersen08,
+  Title = {Bicriterion assignment and multi modal assignment problems (MOrepo-Pedersen08)},
+  Author = {Pedersen, C.R. and Nielsen, L.R.},
+  Url = {https://github.com/MCDMSociety/MOrepo-Pedersen08},
+  Year = {2008},
+  Note = {Instance and result files at MOrepo.}
+}
+```
+
+To cite the Multi-Objective Optimization Repository use
+
+```
+@Electronic{MOrepo,
+  Title = {Multi-Objective Optimization Repository (MOrepo)},
+  Author = {L. R. Nielsen},
+  Url = {https://github.com/MCDMSociety/MOrepo},
+  Year = {2017},
+}
+```
+
+In a paper (written using LaTeX) you may write: 
+
+```
+Instances from \cite{Pedersen} are tested which are available from the Multi-Objective 
+Optimization Repository (MOrepo) (\cite{MOrepo, MOrepo-Pedersen08}). 
+```
+
+Always remember to cite the research paper and not the repository if you don't want to include all
+citations.
+
+
 ## Test instances
 
 Instances are named `Template_AP_n<n>.<raw/xml>` where `n` is the size of the problem. The paper considers
